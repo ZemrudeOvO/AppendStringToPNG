@@ -1,0 +1,16 @@
+{
+    "$schema": "https://raw.githubusercontent.com/DanielGavin/ols/master/misc/ols.schema.json",
+    "collections": [
+        {
+            "name": "core",
+            "path": "/usr/local/Cellar/odin/2024-06/libexec/core"
+        },
+        {
+            "name": "vendor",
+            "path": "/usr/local/Cellar/odin/2024-06/libexec/vendor"
+        }
+    ],
+    "enable_document_symbols": true,
+    "enable_hover": true,
+    "enable_snippets": true
+}
